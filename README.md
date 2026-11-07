@@ -10,4 +10,4 @@ Este trabajo propone integrar OpenUP con Spec-Driven Development asistido por in
 
 ## Palabras clave
 
-Spec-Driven Development, OpenUP, Proceso Unificado, inteligencia artificial en ingeniería de software, Human-in-the-Loop, desarrollo asistido por IA y memoria persistente.
+Spec-Driven Development, OpenUP, inteligencia artificial en ingeniería de software, Human-in-the-Loop, desarrollo asistido por IA y memoria persistente.
