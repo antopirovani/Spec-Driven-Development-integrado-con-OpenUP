@@ -4,11 +4,7 @@ Este repositorio contiene el trabajo **“Spec-Driven Development integrado con 
 
 ## Descripción
 
-El trabajo propone un enfoque híbrido que integra **OpenUP** como ciclo de vida con **Spec-Driven Development (SDD)** como práctica operativa asistida por inteligencia artificial. El proceso combina las fases de OpenUP —Inicio, Elaboración, Construcción y Transición— con un pipeline SDD de cuatro etapas: especificación, diseño, implementación y verificación.
-
-La propuesta incorpora un Coordinador de IA, sub-agentes especializados, compuertas de validación **Human-in-the-Loop (HITL)** y memoria persistente para conservar decisiones, convenciones de código y contexto del dominio entre sesiones. El enfoque se valida mediante un caso de estudio de una plataforma SaaS de economía colaborativa para oficios en Misiones, Argentina.
-
-En el primer sprint se completaron seis casos de uso en cinco días, con validación HITL en todas las etapas y una cobertura de tests igual o superior al 90 % en los módulos centrales de autenticación, catálogo y contratación.
+Este trabajo propone integrar OpenUP con Spec-Driven Development asistido por inteligencia artificial mediante un pipeline de especificación, diseño, implementación y verificación, con validación Human-in-the-Loop y memoria persistente. El enfoque se valida en una plataforma de economía colaborativa para oficios en Misiones, donde el primer sprint completó seis casos de uso en cinco días y alcanzó una cobertura de tests igual o superior al 90 % en los módulos centrales.
 
 ## Documento
 
